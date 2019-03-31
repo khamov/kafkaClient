@@ -15,5 +15,8 @@
     "babel-cli": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
     "kafka-node": "^4.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
   }
 }
